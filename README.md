@@ -32,7 +32,7 @@ Built with Python, scikit-learn, pandas and Streamlit.
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR-USERNAME/student-pass-fail-predictor.git
+git clone https://github.com/ALI-RAZA-tech/student-pass-fail-predictor.git
 cd student-pass-fail-predictor
 
 # 2. Install the libraries
